@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dyn-credit-card/static/css/main.f7f139d6.chunk.css",
+    "main.js": "/dyn-credit-card/static/js/main.21aec453.chunk.js",
+    "main.js.map": "/dyn-credit-card/static/js/main.21aec453.chunk.js.map",
+    "runtime~main.js": "/dyn-credit-card/static/js/runtime~main.a2c87b64.js",
+    "runtime~main.js.map": "/dyn-credit-card/static/js/runtime~main.a2c87b64.js.map",
+    "static/js/2.4952cce3.chunk.js": "/dyn-credit-card/static/js/2.4952cce3.chunk.js",
+    "static/js/2.4952cce3.chunk.js.map": "/dyn-credit-card/static/js/2.4952cce3.chunk.js.map",
+    "index.html": "/dyn-credit-card/index.html",
+    "precache-manifest.669b94c8ddb8f1722ad58847b0dd633f.js": "/dyn-credit-card/precache-manifest.669b94c8ddb8f1722ad58847b0dd633f.js",
+    "service-worker.js": "/dyn-credit-card/service-worker.js",
+    "static/css/main.f7f139d6.chunk.css.map": "/dyn-credit-card/static/css/main.f7f139d6.chunk.css.map"
+  }
+}
